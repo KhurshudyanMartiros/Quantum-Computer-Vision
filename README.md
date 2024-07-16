@@ -22,7 +22,7 @@ References
    
 4. M. Henderson, S. Shakya, S. Pradhan, and T. Cook. Quanvolutional neural networks: powering image recognition with quantum circuits. Quantum Science and Technology, 2(2), 2020.
 
-5. A. Mari. Quanvolutional neural network. https://pennylane.ai/qml/demos/tutorial_quanvolution/,2021.
+5. A. Mari. Quanvolutional neural network. https://pennylane.ai/qml/demos/tutorial_quanvolution/   , 2021.
 
 6. Farina Riaz, Shahab Abdulla, Hajime Suzuki, Srinjoy Ganguly, Ravinesh C. Deo, and Susan Hopkins, Development of a Novel Quantum Pre-processing Filter to Improve Image Classification Accuracy of Neural Network Models, arXiv:2308.11112v1, 2023
 
